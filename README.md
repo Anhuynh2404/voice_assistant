@@ -10,18 +10,17 @@ Here is a schematic of the Raspberry Pi and LEDs
 <img src="https://github.com/techmakerai/Hands-on-Tutorial-Voice-Assistant-on-Raspberry-Pi/blob/main/schematic1.png" width="720"/>
  
 ## Hardware (\*):
-1. Raspberry Pi: https://amzn.to/4bmstJa
-2. microSD card: https://amzn.to/4cFs84s
-3. Audio amplifier: https://amzn.to/3JjPWy9
-4. Mini speaker: https://amzn.to/3TB9Pp3
-5. USB Microphone: https://amzn.to/3HGGSCA
-6. (optional) LEDs and resistors: https://amzn.to/3Jg4Yoz
-7. (optional) Breadboard https://amzn.to/3V3ruWY
-8. uni SD Card Reader https://amzn.to/3yYhwze
-9. Power Supply for Raspberry Pi 4: https://amzn.to/3RVKXIF or
-    for Pi 5: https://amzn.to/3L9kC67
-10. Audio cable for speaker: https://amzn.to/3yXD8vy
-11. Pi 4 case with cooling fan and heatsink: https://amzn.to/4hgnfBV
+1. Raspberry Pi
+2. microSD card
+3. Audio amplifier
+4. Mini speaker
+5. USB Microphone
+6. (optional) LEDs and resistors
+7. (optional) Breadboard 
+8. uni SD Card Reader 
+9. Power Supply for Raspberry Pi 3
+10. Audio cable for speaker
+11. Pi 4 case with cooling fan and heatsink
 
 ## Update and Upgrade the Raspberry Pi OS 
 
